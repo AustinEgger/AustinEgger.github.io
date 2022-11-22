@@ -129,6 +129,7 @@ body {
     background: var(--primary-color);
     margin: 20px auto;
     padding: 20px;
+    position: center;
   }
   
   /* Card container */
