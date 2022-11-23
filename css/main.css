@@ -30,7 +30,7 @@ body {
 
 .overlay {
   position: absolute;
-  /*min-*/height: 100%;
+  /*min-*/height: 500px;
   min-width: 100%;
   left: 0;
   top: 0;
