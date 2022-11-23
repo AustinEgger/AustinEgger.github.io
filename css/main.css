@@ -77,9 +77,13 @@ div.pageheader {
 .features {
 	margin: 4em auto;
 	padding: 1em;
-	position: relative;
+}
+
+.row {
+  position: relative;
   top: 50px;
 }
+
 .feature-title {
 	color: #333;
 	font-size: 1.3rem;
