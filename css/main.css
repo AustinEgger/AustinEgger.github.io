@@ -20,12 +20,16 @@ body {
 .navbar-collapse {
     justify-content: flex-end;
 }
-
+/* headers */
 .header {
     background-image: url('images/header-background.jpg');
     background-size: cover;
     background-position: center;
-    position: relative;
+    /* position: relative; */
+}
+
+.pageheader {
+  height:100%
 }
 
 .overlay {
