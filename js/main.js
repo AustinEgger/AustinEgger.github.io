@@ -3,7 +3,7 @@ uses js bootstrap
 $(document).ready(function(){
 	$('.header').height($(window).height());
 })*/
-/*plan js for stretching eement across screen*/
+/*plan js for stretching element across screen*/
 /*var ready = (callback) => {
     if (document.readyState != "loading") callback();
     else document.addEventListener("DOMContentLoaded", callback);
