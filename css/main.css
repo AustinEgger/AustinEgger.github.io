@@ -34,7 +34,7 @@ body {
   /*min-*/height: 100%;
   min-width: 100%;
   left: 0;
-  top: 0;
+  /*top: 0;*/
   background: rgba(0, 0, 0, 0.6);
 }
 
@@ -53,6 +53,7 @@ body {
 	color: #fff;
 	font-size: 1.3rem;
 	line-height: 1.5;
+  height: 100%;
 }
 
 /*for vote button*/
