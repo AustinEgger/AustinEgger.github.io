@@ -28,7 +28,7 @@ body {
     /* position: relative; */
 }
 
-.pageheader {
+div.pageheader {
   height: 100%;
 }
 
