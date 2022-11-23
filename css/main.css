@@ -30,6 +30,7 @@ body {
 
 div.pageheader {
   height: 100%;
+  position: absolute;
 }
 
 .overlay {
@@ -77,6 +78,7 @@ div.pageheader {
 	margin: 4em auto;
 	padding: 1em;
 	position: relative;
+  top: 50px;
 }
 .feature-title {
 	color: #333;
