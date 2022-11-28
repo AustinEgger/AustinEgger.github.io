@@ -79,7 +79,7 @@ border:1px solid #fff;
 
 /*for main page columns*/
 .features {
-  background:rgb(156, 227, 255);
+  background-color:rgb(156, 227, 255);
 	margin: 4em auto;
 	padding: 1em;
   position: absolute;
