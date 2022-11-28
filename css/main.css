@@ -77,9 +77,14 @@ border:1px solid #fff;
   color:#000;
 }
 
+.aposition {
+  background-color:rgb(156, 227, 255);
+  position: absolute;
+  top: 1500%;
+}
+
 /*for main page columns*/
 .features {
-  background-color:rgb(156, 227, 255);
 	margin: 4em auto;
 	padding: 1em;
   position: absolute;
