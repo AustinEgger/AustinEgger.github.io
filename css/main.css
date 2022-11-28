@@ -37,6 +37,7 @@ body {
     position: relative;
     height: 30%;
     background: rgba(0, 0, 0, 0.6);
+    margin-bottom: 10%;
 }
 
 .overlay {
