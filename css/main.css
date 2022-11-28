@@ -44,7 +44,7 @@ div.pageheader {
 
 /*For header text*/
 .description {
-	left: 50%;
+	/*left: 50%;*/
 	position: absolute;
 	top: 50%;
 	transform: translate(-50%, -55%);
