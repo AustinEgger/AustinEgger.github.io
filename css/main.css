@@ -82,6 +82,7 @@ border:1px solid #fff;
 	margin: 4em auto;
 	padding: 1em;
   position: absolute;
+  justify-content: center;
 }
 /*contains pictures for ideas*/
 
