@@ -30,8 +30,7 @@ body {
 
 div.pageheader {
   height: 100%;
-  position: absolute;
-  top:
+  position: relative;
 }
 
 .overlay {
@@ -46,7 +45,7 @@ div.pageheader {
 /*For header text*/
 .description {
 	left: 50%;
-	position: relative;
+	position: absolute;
 	top: 50%;
 	transform: translate(-50%, -55%);
 	text-align: center;
