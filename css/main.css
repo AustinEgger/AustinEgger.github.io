@@ -21,36 +21,32 @@ body {
     justify-content: flex-end;
 }
 
-/* container */
+/* container 
 #container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
   width: 100%;
   padding-right: 0px;
   padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
-}
+}*/
+
 /* headers */
 .header {
-    background-image: url('images/header-background.jpg');
+    background-image: url('images/logo.png');
     background-size: cover;
     background-position: center;
-    /* position: relative; */
-}
-
-div.pageheader {
-  position: relative;
-  justify-content: center;
-  height: 100%;
+    position: relative;
+    justify-content: center;
+    height: 100%;
 }
 
 .overlay {
   position: absolute;
-  /*min-*/height: 100%;
-  min-width: 100%;
-  /*left: 0;*/
-  /*top: 0;*/
-  justify-content: center;
-  background: rgba(0, 0, 0, 0.6);
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.6);
 }
 
 /*For header text*/
