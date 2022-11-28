@@ -29,6 +29,7 @@ body {
   margin-right: auto;
   margin-left: auto;
 }*/
+
 /* headers */
 .header {
     background-image: url('images/logo.png');
@@ -48,35 +49,32 @@ body {
     background: rgba(0, 0, 0, 0.6);
 }
 
-/*For header text*/
 .description {
-	/*left: 50%;*/
+	left: 50%;
 	position: absolute;
 	top: 45%;
-	/*transform: translate(-50%, -55%);*/
+	transform: translate(-50%, -55%);
 	text-align: center;
 }
 .description h1 {
-	color: #a73204;
+	color: #6ab446;
 }
 .description p {
 	color: #fff;
 	font-size: 1.3rem;
 	line-height: 1.5;
-  height: 100%;
 }
-
 /*for vote button*/
 .description button {
-    border:1px solid #8f1150;
-    background:#0c08d8;
-    border-radius: 0;
-    color:#fff;
+  border:1px solid #6ab446;
+  background:#6ab446;
+  border-radius: 0;
+  color:#fff;
 }
 .description button:hover {
-	border:1px solid #fff;
-    background:#fff;
-    color:#000;
+border:1px solid #fff;
+  background:#fff;
+  color:#000;
 }
 
 /*for main page columns*/
@@ -86,28 +84,23 @@ body {
   position: absolute;
 }
 /*contains pictures for ideas*/
-.info {
-  position: absolute;
-  top: 100%;
-}
 
 .feature-title {
 	color: #333;
 	font-size: 1.3rem;
 	font-weight: 700;
-	margin: auto;
+	margin-bottom: 20px;
 	text-transform: uppercase;
-    text-align: center;
 }
 .features img {
 	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
-	margin: auto;
     width:  285px;
     height: 175px;
     justify-content: center;
     display: flex;
+    margin-bottom: 16px;
 }
 
 .page-footer {
