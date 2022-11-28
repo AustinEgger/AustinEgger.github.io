@@ -29,9 +29,9 @@ body {
 }
 
 div.pageheader {
-  height: 100%;
   position: relative;
   justify-content: center;
+  height: 100%;
 }
 
 .overlay {
@@ -50,7 +50,7 @@ div.pageheader {
 	position: absolute;
 	top: 50%;
   justify-content: center;
-	transform: translate(-50%, -55%);
+	/*transform: translate(-50%, -55%);*/
 	text-align: center;
 }
 .description h1 {
