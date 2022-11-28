@@ -89,11 +89,12 @@ div.pageheader {
 .features {
 	margin: 4em auto;
 	padding: 1em;
+  position: absolute;
 }
 /*contains pictures for ideas*/
 .info {
   position: absolute;
-  top: 15%;
+  top: 100%;
 }
 
 .feature-title {
