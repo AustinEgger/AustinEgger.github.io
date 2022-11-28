@@ -40,7 +40,7 @@ body {
 .description {
 	left: 50%;
 	position: absolute;
-	top: 45%;
+	top: 80%;
 	transform: translate(-50%, -55%);
 	text-align: center;
 }
@@ -69,6 +69,7 @@ body {
 	margin: 4em auto;
 	padding: 1em;
 	position: relative;
+    top:10%;
 }
 .feature-title {
 	color: #333;
