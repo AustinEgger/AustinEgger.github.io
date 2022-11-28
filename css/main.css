@@ -81,10 +81,10 @@ div.pageheader {
 	margin: 4em auto;
 	padding: 1em;
 }
-
+/*contains pictures for ideas*/
 .info {
-  position: relative;
-  top: 1500px;
+  position: absolute;
+  top: 15%;
 }
 
 .feature-title {
