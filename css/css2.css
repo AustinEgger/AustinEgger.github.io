@@ -22,7 +22,7 @@ body {
 }
 
 .header {
-    background-image: url("images/logo.png");
+    background: rgba(3, 28, 110, 0.6);
     background-size: cover;
     background-position: center;
     position: relative;
