@@ -28,7 +28,7 @@ body {
     position: absolute;
     top: 25%
 }
-
+/* intro text */
 .overlay {
     position: absolute;
     min-height: 100%;
@@ -44,7 +44,7 @@ body {
 	top: 80%;
 	transform: translate(-50%, -55%);
 	text-align: center;
-    padding: 5%;
+    padding: 10%;
 }
 .description h1 {
 	color: #010201;
@@ -66,13 +66,13 @@ body {
     background:#fff;
     color:#000;
 }
-
+/* images for columns */
 .features {
 	margin: 4em auto;
 	padding: 1em;
 	position: relative;
     top:15%;
-    padding: 4%;
+    padding: 10%;
 }
 .feature-title {
 	color: #333;
@@ -89,14 +89,30 @@ body {
     width:  285px;
     height: 175px;
 }
-
+/* footer */
 .page-footer {
     background-color: #222;
     color: #ccc;
     padding: 60px 0 30px;
-    padding: 4%;
+    padding: 10%;
 }
 .footer-copyright {
     color: #666;
     padding: 40px 0;
+}
+
+/* form */
+.features .form-control,
+.features input {
+	border-radius: 0;
+}
+.features .btn {
+    background-color: #589b37;
+    border: 1px solid #589b37;
+    color: #fff;
+    margin-top: 20px;
+}
+.features .btn:hover {
+    background-color: #333;
+    border: 1px solid #333;
 }
