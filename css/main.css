@@ -83,7 +83,7 @@ position: relative;
 color: #333;
 font-size: 1.3rem;
 font-weight: 700;
-margin-bottom: 20px;
+margin: 10% 0px 20px 0px;
 text-transform: uppercase;
 }
 .features img {
@@ -98,7 +98,7 @@ margin-bottom: 16px;
 .page-footer {
   background-color: #222;
   color: #ccc;
-  padding: 25px 0 30px;
+  padding: 25px 0px 35px 0px;
   margin: 1% 0% 0% 0%;
 }
 .footer-copyright {
