@@ -55,7 +55,7 @@ body {
 	top: 45%;
 	transform: translate(-50%, -55%);
 	text-align: center;
-  padding: 10%;
+  padding: 10% 1% 1% 5%;
 }
 .description h1 {
 	color: #054daa;
@@ -91,7 +91,7 @@ border:1px solid #fff;
   position: absolute;
   justify-content: center;
   top: 10%;
-  padding: 6%;
+  padding: 5% 1% 1% 5%;
 }
 /*contains pictures for ideas*/
 
