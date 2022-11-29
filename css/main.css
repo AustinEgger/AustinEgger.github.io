@@ -167,7 +167,7 @@ body {
 }
 
 /* Information about the timeline */
-.timeinfo {
+.info {
   display: flex;
   flex-direction: column;
   gap: 10px;
