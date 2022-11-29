@@ -11,6 +11,10 @@ body {
   color: #fff;
   cursor: pointer;
 }
+.logo {
+  width:20px;
+  height: 20px;
+}
 .nav-link {
   margin-right: 1em !important;
 }
