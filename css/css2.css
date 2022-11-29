@@ -26,7 +26,7 @@ body {
     background-size: cover;
     background-position: center;
     position: absolute;
-    top: 25%
+    top: 25%;
 }
 /* intro text */
 .overlay {
@@ -44,7 +44,7 @@ body {
 	top: 60px;
 	transform: translate(-50%, -55%);
 	text-align: center;
-    margin: 10% 1% 5% 1%;
+    margin: 10px 1px 5px 1px;
 }
 .description h1 {
 	color: #010201;
@@ -72,7 +72,7 @@ body {
 	padding: 1em;
 	position: relative;
     top:15%;
-    margin: 10% 1% 5% 1%;;
+    margin: 10px 1px 5px 1px;
 }
 .feature-title {
 	color: #333;
