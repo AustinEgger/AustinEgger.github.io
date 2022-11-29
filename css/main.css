@@ -11,6 +11,12 @@ body {
   color: #fff;
   cursor: pointer;
 }
+
+.navbar-brand img{
+  height: 40px;
+  width: auto;
+}
+
 .logo {
   width:20px;
   height: 20px;
