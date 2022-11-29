@@ -44,7 +44,7 @@ body {
 	top: 80%;
 	transform: translate(-50%, -55%);
 	text-align: center;
-    padding: 10%;
+    padding: 5%;
 }
 .description h1 {
 	color: #010201;
@@ -72,7 +72,7 @@ body {
 	padding: 1em;
 	position: relative;
     top:15%;
-    padding: 10%;
+    padding: 4%;
 }
 .feature-title {
 	color: #333;
@@ -94,6 +94,7 @@ body {
     background-color: #222;
     color: #ccc;
     padding: 60px 0 30px;
+    padding: 4%;
 }
 .footer-copyright {
     color: #666;
