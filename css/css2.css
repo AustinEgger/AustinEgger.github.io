@@ -68,11 +68,11 @@ body {
 }
 /* images for columns */
 .features {
-	margin: 4em auto;
+	margin: 10px 1px 5px 1px;
 	padding: 1em;
 	position: relative;
     top:15%;
-    margin: 10px 1px 5px 1px;
+    
 }
 .feature-title {
 	color: #333;
