@@ -113,6 +113,10 @@ margin-bottom: 16px;
   top: 0;  
 }
 
+/* candidate table */
+table, th, td {
+  border:1px solid black;
+}
 /* footer */
 .page-footer {
   position: absolute;
