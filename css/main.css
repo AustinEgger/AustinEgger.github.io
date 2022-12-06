@@ -108,7 +108,9 @@ margin-bottom: 16px;
 }
 
 .content-wrap{
-  padding-bottom: 2.5rem;    
+  padding-bottom: 2.5rem;  
+  position: sticky;
+  top: 0;  
 }
 
 /* footer */
