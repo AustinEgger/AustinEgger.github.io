@@ -110,17 +110,22 @@ margin-bottom: 16px;
 
 /* video */
 .video{
-  white-space: normal;
+  position: relative;
+  top: 100px;
 }
 
 .content-wrap{
   padding-bottom: 2.5rem; 
-  white-space: normal;
+  
 }
 
 /* candidate table */
 table, th, td {
   border:1px solid black;
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  top: 50px;
 }
 /* footer */
 .page-footer {
