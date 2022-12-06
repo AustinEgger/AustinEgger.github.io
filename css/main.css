@@ -100,8 +100,22 @@ margin-bottom: 16px;
   width:  285px;
   height: 175px;
 }
+
+/* page content */
+.content{
+  position:relative;
+  min-height: 100vh;
+}
+
+.content-wrap{
+  padding-bottom: 2.5rem;    
+}
+
 /* footer */
 .page-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
   background-color: #222;
   color: #ccc;
   padding: 25px 0px 35px 0px;
