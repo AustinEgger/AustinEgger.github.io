@@ -35,7 +35,7 @@ body {
   background: rgba(3, 28, 110, 0.6);
   background-size: cover;
   background-position: center;
-  position: sticky;
+  position: absolute;
   top: 0;
 }
 /* intro text */
@@ -108,9 +108,7 @@ margin-bottom: 16px;
 }
 
 .content-wrap{
-  padding-bottom: 2.5rem;  
-  position: sticky;
-  top: 0;  
+  padding-bottom: 2.5rem;   
 }
 
 /* candidate table */
