@@ -105,10 +105,17 @@ margin-bottom: 16px;
 .content{
   position:relative;
   min-height: 100vh;
+  white-space: normal;
+}
+
+/* video */
+.video{
+  white-space: normal;
 }
 
 .content-wrap{
-  padding-bottom: 2.5rem;   
+  padding-bottom: 2.5rem; 
+  white-space: normal;
 }
 
 /* candidate table */
