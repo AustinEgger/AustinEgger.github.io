@@ -108,14 +108,12 @@ margin-bottom: 16px;
 }
 
 /* homepage content */
-
-.policies{
-  position: absolute;
+.shirt {
+  top:5em;
 }
-
 .money{
   position: relative;
-  top: 10em;
+  top: 1em;
   justify-content: center;
 }
 
