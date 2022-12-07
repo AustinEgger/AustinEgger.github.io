@@ -101,13 +101,6 @@ margin-bottom: 16px;
   height: 175px;
 }
 
-/* page content */
-.content{
-  position:relative;
-  min-height: 100vh;
-  white-space: normal;
-}
-
 /* video */
 .video{
   position: relative;
