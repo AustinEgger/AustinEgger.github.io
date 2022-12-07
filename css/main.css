@@ -107,6 +107,19 @@ margin-bottom: 16px;
   
 }
 
+/* homepage content */
+
+.policies{
+  position: absolute;
+}
+
+.money{
+  position: relative;
+  top: 10em;
+  justify-content: center;
+}
+
+
 /* video */
 .video{
   position: relative;
