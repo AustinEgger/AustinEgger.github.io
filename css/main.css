@@ -125,15 +125,33 @@ margin-bottom: 16px;
   height: 175px;
 }
 
+.features3 img {
+  -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+    width:  285px;
+    height: 175px;
+ }
+
 .content-wrap{
   padding-bottom: 2.5rem; 
   
 }
 
 /* homepage content */
+.features button{
+  transform: translate(175%, 40%);
+}
+
 .features2 button{
   transform: translate(175%, 40%);
 }
+
+.features3 button{
+  transform: translate(175%, 40%);
+}
+
 .money{
   position: relative;
   top: 1em;
