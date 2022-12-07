@@ -38,7 +38,7 @@ body {
   position: absolute;
   top: 0;
 }
-.header {
+.header-home {
   background: rgba(3, 28, 110, 0.6);
   background-size: cover;
   background-position: center;
