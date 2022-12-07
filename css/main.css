@@ -82,7 +82,8 @@ border:1px solid #fff;
 margin: 15% 1px 10px 1px;
 padding: 1em;
 position: relative;
-  top:15%;
+top:15%;
+margin-bottom: 15em;
 }
 
 .feature-title {
