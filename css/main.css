@@ -201,8 +201,9 @@ border-radius: 0;
 /* Timeline Container */
 .timeline {
   background: var(--primary-color);
-  margin: 20% 30% 5% 30%;
+  margin: 10em 30% 5% 30%;
   padding: 20px;
+  margin-bottom: 15em;
 }
 
 /* Outer Layer with the timeline border */
