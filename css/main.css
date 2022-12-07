@@ -79,19 +79,18 @@ border:1px solid #fff;
 }
 /* images for columns */
 .features {
-margin: 15% 1px 10px 1px;
+margin: 15% 1px 5px 1px;
 padding: 1em;
 position: relative;
 top:15%;
-margin-bottom: 15em;
+margin-bottom: 10em;
 }
 
 .features2 {
-  margin: 15% 1px 10px 1px;
+  margin: 1% 1px 10px 1px;
   padding: 1em;
   position: relative;
-  top:15%;
-  margin-bottom: 1em;
+  margin-bottom: 10em;
   }
 
 .feature-title {
@@ -117,7 +116,6 @@ margin-bottom: 16px;
 
 /* homepage content */
 .features2 button{
-  left: 30%;
   transform: translate(175%, 40%);
 }
 .money{
