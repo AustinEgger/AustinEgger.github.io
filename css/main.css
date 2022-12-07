@@ -39,12 +39,14 @@ body {
   top: 0;
 }
 .header-home {
-  background: rgb(97 97 97 / 60%);
+  background: #66656599;
   background-size: cover;
   background-position: center;
   position: relative;
   height: auto;
+  background-image: linear-gradient(#2a2a2a99, white);
 }
+
 /* intro text */
 
 .description {
@@ -134,7 +136,7 @@ table, th, td {
   color: #ccc;
   padding: 22px 0px 3px 0px;
   margin: 0% 0% 0% 0%;
-  height: 10%;
+  height: 11em;
 }
 .footer-copyright {
   color: #666;
