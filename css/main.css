@@ -101,15 +101,15 @@ margin-bottom: 16px;
   height: 175px;
 }
 
+.content-wrap{
+  padding-bottom: 2.5rem; 
+  
+}
+
 /* video */
 .video{
   position: relative;
   top: 100px;
-}
-
-.content-wrap{
-  padding-bottom: 2.5rem; 
-  
 }
 
 /* candidate table */
