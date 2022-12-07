@@ -102,6 +102,13 @@ margin-bottom: 10em;
   margin-bottom: 10em;
   }
 
+.features3 {
+  margin: 1% 1px 10px 1px;
+  padding: 1em;
+  position: relative;
+  margin-bottom: 10em;
+}
+
 .feature-title {
 color: #333;
 font-size: 1.3rem;
