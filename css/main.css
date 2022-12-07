@@ -91,7 +91,7 @@ margin-bottom: 15em;
   padding: 1em;
   position: relative;
   top:15%;
-  margin-bottom: 15em;
+  margin-bottom: 1em;
   }
 
 .feature-title {
@@ -116,8 +116,9 @@ margin-bottom: 16px;
 }
 
 /* homepage content */
-.shirt {
-  top:5em;
+.features2 button{
+  left: 30%;
+  transform: translate(175%, 40%);
 }
 .money{
   position: relative;
