@@ -76,6 +76,10 @@ body {
 /*about me page*/
 .content{
   top: 10em;
+  margin: 1% 1px 10px 1px;
+  padding: 1em;
+  position: relative;
+  margin-bottom: 10em;
 }
 /* intro text */
 
