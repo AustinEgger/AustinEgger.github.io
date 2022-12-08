@@ -91,7 +91,7 @@ body {
 }
 
 /* candidate table */
-table.candidate-table th, td {
+table.candidate-table, th, td {
   border:1px solid black;
   top: 50px;
   margin-left: auto;
