@@ -82,6 +82,13 @@ body {
   margin-bottom: 10em;
 }
 
+.content-me{
+  position: relative;
+  top: 10em;
+  margin: 1% 1px 10px 1px;
+  padding: 1em;
+}
+
 /* candidate table */
 table, th, td {
   border:1px solid black;
