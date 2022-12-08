@@ -96,6 +96,7 @@ table, th, td {
   top: 50px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* intro text */
