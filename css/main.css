@@ -109,7 +109,7 @@ table.candidate-table, th, td {
 
 table.candidate-table thead{
   background: #0B6FA4;
-  border-bottom: solid #FFFFFF;
+  border-bottom: 0px solid #FFFFFF;
 }
 table.candidate-table tr:nth-child(even) {
   background: #D0E4F5;
