@@ -101,7 +101,7 @@ table.candidate-table, th, td {
 
 table.candidate-table thead{
   background: #0B6FA4;
-  border-bottom: 5px solid #FFFFFF;
+  border-bottom: solid #FFFFFF;
 }
 table.candidate-table tr:nth-child(even) {
   background: #D0E4F5;
@@ -122,7 +122,7 @@ text-align: center;
   justify-content: center;
   text-align: center;
   }
-  
+
 .description h1 {
 color: #010201;
 }
