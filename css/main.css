@@ -246,6 +246,11 @@ margin-bottom: 16px;
   top: 100px;
 }
 
+.video-me{
+  width: 100%;
+  height: auto;
+}
+
 /* footer */
 .page-footer {
   position: absolute;
