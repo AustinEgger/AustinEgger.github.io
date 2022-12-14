@@ -249,6 +249,7 @@ margin-bottom: 16px;
 .video-me{
   width: 50%;
   aspect-ratio: 16/9;
+  border: none;
 }
 
 /* footer */
