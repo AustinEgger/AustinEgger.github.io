@@ -170,11 +170,11 @@ border:1px solid #fff;
 }
 /* images for columns */
 .features {
-margin: 15% 1px 5px 1px;
+margin: 1em;
 padding: 1em;
 position: relative;
 top:15%;
-margin-bottom: 10em;
+margin-bottom: 1em;
 }
 
 .features2 {
