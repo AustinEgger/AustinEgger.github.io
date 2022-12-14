@@ -120,6 +120,7 @@ table.candidate-table, th, td {
   margin-right: auto;
   text-align: center;
   margin-bottom: 10em;
+  padding:2em;
 }
 
 table.candidate-table thead{
