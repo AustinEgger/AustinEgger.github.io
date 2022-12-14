@@ -247,8 +247,8 @@ margin-bottom: 16px;
 }
 
 .video-me{
-  width: 100%;
-  height: auto;
+  width: 50%;
+  aspect-ratio: 16/9;
 }
 
 /* footer */
